@@ -29,7 +29,7 @@ export default function Home() {
               </li>
               <li>
                 <a
-                  className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8"
+                  className="bg-gradient-to-r from-cyan-500 text- to-teal-500 hover:from-blue-500 hover:to-indigo-500 text-white px-4 py-2 border-none rounded-md ml-8"
                   href="#"
                 >
                   Resume
@@ -53,7 +53,7 @@ export default function Home() {
               <AiFillLinkedin />
               <AiFillYoutube />
             </div>
-            <div className="mx-auto bg-gradient-to-b from-cyan-500 to-blue-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
+            <div className="mx-auto bg-gradient-to-b from-indigo-500 to-blue-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
               
             </div>
           </div>
